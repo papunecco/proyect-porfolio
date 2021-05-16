@@ -1,0 +1,53 @@
+body {
+	background: black;
+	color: grey;
+}
+
+header {
+	background: grey;
+	height: 60px;
+	color: violet;
+	padding: 15px;
+}
+
+.dropdown {
+	margin-top: -3px;
+	margin-left: 70px;
+}
+
+.logo{
+	width: 30px;
+	height: 30px;
+	margin-left: 10px;
+	margin-right:10px;
+	border-radius: 5px;
+}
+
+.textito{
+	text-decoration: none;
+	color: black;
+}
+
+.textito:hover {
+	color:grey;
+}
+
+.contacto {
+	margin-left: 150px;
+	margin-top: -3px;
+}
+
+.btncontacto{
+	text-decoration: none;
+	color:white;
+}
+
+.btncontacto:hover{
+	color:white;
+}
+
+.card{
+	width: 18rem; 
+	background: grey; 
+	color: white;
+}
